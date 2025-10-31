@@ -14,5 +14,5 @@ This repository contains two full-stack applications built using **React (TypeSc
 
 - **Frontend (React + TypeScript):** [https://pathlock-assignment-h2xv.vercel.app/)
   _(Deployed on Vercel)_
-- **Backend (ASP.NET Core 8 Web API):** [https://assignment2-backend.onrender.com/](https://assignment2-backend.onrender.com/)
-  _(Deployed on Render)_
+## 📽️ Project Demo  
+🎥 [Watch the full demo here](https://drive.google.com/file/d/14Z8hKVzFiC9fKKWs6UMRIQPl0GRH8Tkg/view?usp=sharing)
