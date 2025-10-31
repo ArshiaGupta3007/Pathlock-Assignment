@@ -1,0 +1,16 @@
+node_modules
+dist
+build
+.next
+.env
+.env.local
+
+bin/
+obj/
+appsettings.*.json
+*.db
+
+.DS_Store
+*.log
+.vscode/
+.idea/
